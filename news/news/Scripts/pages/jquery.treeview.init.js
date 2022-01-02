@@ -1,5 +1,5 @@
 /*
- Template: Metrica - Bootstrap 4 Admin Dashboard
+ Template: news - Bootstrap 4 Admin Dashboard
  Author: Mannatthemes
  File: Treeview
  */

@@ -1,5 +1,5 @@
 /**
- * Theme: Metrica - Responsive Bootstrap 4 Admin Dashboard
+ * Theme: news - Responsive Bootstrap 4 Admin Dashboard
  * Author: Mannatthemes
  * Peity Js
  */

@@ -1,5 +1,5 @@
 /*
-Template Name: Metrica - Admin & Dashboard Template
+Template Name: news - Admin & Dashboard Template
 Author: Mannatthemes
 Version: 2.1.0
 File: App Css
@@ -7,7 +7,7 @@ File: App Css
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700");
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,500,700");
 /*
-Template Name: Metrica - Admin & Dashboard Template
+Template Name: news - Admin & Dashboard Template
 Author: Mannatthemes
 Email: mannat.themes@gmail.com
 File: Leftbar
@@ -484,7 +484,7 @@ body.enlarge-menu .page-wrapper {
 }
 
 /*
-Template Name: Metrica - Admin & Dashboard Template
+Template Name: news - Admin & Dashboard Template
 Author: Mannatthemes
 File: Topbar
 */
@@ -703,7 +703,7 @@ File: Topbar
 }
 
 /*
-Template Name: Metrica - Admin & Dashboard Template
+Template Name: news - Admin & Dashboard Template
 Author: Mannatthemes
 Version: 2.1.0
 File: footer Css
@@ -719,7 +719,7 @@ File: footer Css
 }
 
 /*
-Template Name: Metrica - Admin & Dashboard Template
+Template Name: news - Admin & Dashboard Template
 Author: Mannatthemes
 Version: 2.1.0
 File: Horizontal-nav
@@ -2157,7 +2157,7 @@ body.dark-sidenav .leftbar-tab-menu .main-icon-menu .nav-link.active:before {
 }
 
 /*
-Template Name: Metrica - Admin & Dashboard Template
+Template Name: news - Admin & Dashboard Template
 Author: Mannatthemes
 Version: 2.1.0
 File: leftbar-tab Css
@@ -2206,7 +2206,7 @@ File: leftbar-tab Css
   top: 0;
 }
 
-.leftbar-tab-menu .main-icon-menu .logo-metrica .logo-sm {
+.leftbar-tab-menu .main-icon-menu .logo-news .logo-sm {
   height: 34px;
 }
 
@@ -2215,7 +2215,7 @@ File: leftbar-tab Css
   fill: rgba(11, 122, 243, 0.25);
 }
 
-.leftbar-tab-menu .main-icon-menu .pro-metrica-end {
+.leftbar-tab-menu .main-icon-menu .pro-news-end {
   -ms-flex-negative: 0;
       flex-shrink: 0;
   display: -webkit-box;

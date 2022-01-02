@@ -1,5 +1,5 @@
 /**
- * Theme: Metrica - Responsive Bootstrap 4 Admin Dashboard
+ * Theme: news - Responsive Bootstrap 4 Admin Dashboard
  * Author: Mannatthemes
  * Sweet Alert Js
  */
@@ -130,7 +130,7 @@
       //Custom Image
       $('#sa-image').click(function () {
           Swal.fire({
-              title: 'Metrica',
+              title: 'news',
               text: 'Modal with a custom image.',
               imageUrl: '../../images/logo-sm.png',
               imageHeight: 80,

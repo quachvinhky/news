@@ -1,5 +1,5 @@
 /**
- * Theme: Metrica - Responsive Bootstrap 4 Admin Dashboard
+ * Theme: news - Responsive Bootstrap 4 Admin Dashboard
  * Author: Mannatthemes
  * Apexcharts Js
  */
@@ -2915,7 +2915,7 @@ var spark1 = {
       opacity: 0.2,
   },
   series: [{
-      name: 'Metrica Sales ',
+      name: 'news Sales ',
       data: randomizeArray(sparklineData)
   }],
   yaxis: {
@@ -2967,7 +2967,7 @@ var spark2 = {
       opacity: 0.2,
   },
   series: [{
-      name: 'Metrica Expenses ',
+      name: 'news Expenses ',
       data: randomizeArray(sparklineData)
   }],
   yaxis: {
